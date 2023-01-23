@@ -1,0 +1,6 @@
+\hypertarget{Connect_8cpp}{}\doxysection{Файл Connect.\+cpp}
+\label{Connect_8cpp}\index{Connect.cpp@{Connect.cpp}}
+{\ttfamily \#include \char`\"{}Connect.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}md5.\+h\char`\"{}}\newline
+Граф включаемых заголовочных файлов для Connect.\+cpp\+:
+% FIG 0
